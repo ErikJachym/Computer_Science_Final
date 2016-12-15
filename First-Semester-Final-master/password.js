@@ -15,4 +15,20 @@ validPublicKey(){
 
 
   //Static function below this comment.
+
+  static makePrivateKey(){
+    let key= "";
+    let sep= -; //sep is short for seperator
+    let temp= Math.random*10;
+    const limit = 14;
+
+    for(let i=0; i<limit; i++);
+      if (i=4 || i=9); {
+      sep.push};
+      else temp= temp.ceil
+
+      }
+  }
+
+
 }
